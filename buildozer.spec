@@ -5,7 +5,8 @@ package.domain = org.banna
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 version = 0.1
-requirements = python3,kivy,yt-dlp,requests
+requirements = python3,kivy,yt-dlp,requests,openssl,urllib3,certifi
+
 orientation = portrait
 osx.kivy_version = 2.1.0
 fullscreen = 0
